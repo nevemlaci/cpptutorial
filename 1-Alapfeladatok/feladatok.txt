@@ -1,0 +1,14 @@
+1.
+Hello world.
+
+2.
+Változók, adattípusok, konzol bemenet, matematikai operátorok.
+
+3. 
+Ciklusok, eldöntés tétele.
+    Írjuk ki 20-ig a páratlan számokat. ('for' ciklus, eldöntés 'if')
+    Írj programot, amely addig olvas be valós számokat, amíg azok összege el nem éri, vagy meg nem haladja a 100-at.('while' ciklus)
+
+4. Tömb, maximum és minimumkeresés, rendezés tétele, swap.
+    Írj programot, amely addig olvas be egész számokat (max. 10 db), amíg nullát nem ütünk. Írja ki a legkisebb és legnagyobb számot.
+    Írj programot, amely 5 egész számot kér be. Írja ki a számokat csökkenõ rendezettségben.
