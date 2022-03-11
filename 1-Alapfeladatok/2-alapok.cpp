@@ -5,18 +5,18 @@ using namespace std;
 
 int main(){
     
-    //egész, tört, karakter és karakterlánc adattípusú véltozók deklarálása(létrehozása)
+    //egÃ©sz, tÃ¶rt, karakter Ã©s karakterlÃ¡nc adattÃ­pusÃº vÃ©ltozÃ³k deklarÃ¡lÃ¡sa(lÃ©trehozÃ¡sa)
     int egesz=3;
     float tort=4.3;
     char karakter='s';
     string szoveg="asd";
 
-    //változók kiíratása enln="endline" , sor vége
+    //vÃ¡ltozÃ³k kiÃ­ratÃ¡sa enln="endline" , sor vÃ©ge
     cout<<egesz<<endl<<tort<<endl<<karakter<<endl<<szoveg<<endl;
 
-    //bekérésre használt változó
+    //bekÃ©rÃ©sre hasznÃ¡lt vÃ¡ltozÃ³
     int x;
-    //cin = console input
+    //cin = character input
     cin>>x;
     cout<<"A bekert szam: "<<x<<endl;
 
