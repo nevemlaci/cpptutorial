@@ -4,10 +4,10 @@ using namespace std;
 
 int main(){
     
-    //indexelt ciklus(for) és eldöntés(if)
+    //indexelt ciklus(for) Ã©s eldÃ¶ntÃ©s(if)
 
-    //0-ról induló számláló, ciklusonként 1-el növekszik
-    //a ciklus addig ismétlõdik, amíg 'i' kisebb, mint 21
+    //0-rÃ³l indulÃ³ szÃ¡mlÃ¡lÃ³, ciklusonkÃ©nt 1-el nÃ¶vekszik
+    //a ciklus addig ismÃ©tlÃµdik, amÃ­g 'i' szÃ¡mlÃ¡lÃ³ kisebb, mint 21
     for(int i=0;i<21;i++){
         if((i+1)%2==0){
             cout<<i+1<<endl;
