@@ -4,13 +4,13 @@ using namespace std;
 
 int main(){
 
-    //tömb deklarálása: int nev[elemszam];
+    //tÃ¶mb deklarÃ¡lÃ¡sa: int nev[elemszam];
     int t[10];
-    //vizsgált bekérési változó és bekérések darbaszáma
+    //vizsgÃ¡lt bekÃ©rÃ©si vÃ¡ltozÃ³ Ã©s bekÃ©rÃ©sek darbaszÃ¡ma
     int x , db=0;
     for(int i=0;i<10;i++){
         cin>>x;
-        //if-else elágazás, else: ha a feltétel nem igaz, csak fusson le
+        //if-else elÃ¡gazÃ¡s, else: ha a feltÃ©tel nem igaz, csak akkor fusson le
         if(x==0){
             break;
         }else{
@@ -19,7 +19,7 @@ int main(){
         }
     }
 
-    //maximum és minimumkeresés
+    //maximum Ã©s minimumkeresÃ©s
 
     int maxx=0;
     int minx=INT_MAX;
