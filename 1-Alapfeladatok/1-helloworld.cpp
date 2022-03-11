@@ -1,17 +1,17 @@
-//a c++ alapf·jlai tartalmazz·s a haszn·lt funkciÛkat
-// ezeket a #include haszn·lat·val import·ljuk a programokba
+//a c++ alapf√°jlai tartalmazz√°k a haszn√°lt funkci√≥kat
+// ezeket a #include haszn√°lat√°val import√°ljuk a programokba
 // iostream = "input output stream"
 #include <iostream>
 
-//std = standard library , ezzel sok idıt megspÛrolunk magunknak
+//std = standard library , ezzel sok id√µt megsp√≥rolunk magunknak
 
 using namespace std;
 
-//a main funkciÛ a programunk belÈpÈsi pontja, ez indul el a program indul·sakor
+//a main funkci√≥ a programunk bel√©p√©si pontja, ez indul el a program indul√°sakor
 int main(){
     //cout = console output
-    cout<<"Hello World!"; //minden parancsot ; -vel z·runk
+    cout<<"Hello World!"; //minden parancsot ; -vel z√°runk
 
-    //a funkciÛ ezt az ÈrtÈket adja vissza, main funkciÛ esetÈben mindig 0
+    //a funkci√≥ ezt az √©rt√©ket adja vissza, main funkci√≥ eset√©ben mindig 0
     return 0;
 }
